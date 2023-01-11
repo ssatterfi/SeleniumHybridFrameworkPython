@@ -140,3 +140,47 @@
 2023-01-11 12:52:31,712 - root - INFO - ************* SearchCustomerByEmail_004 **********
 2023-01-11 12:52:34,133 - root - INFO - ************* Login succesful **********
 2023-01-11 12:52:34,134 - root - INFO - ******* Starting Search Customer By Email **********
+2023-01-11 17:52:01,652 - WDM - INFO - ====== WebDriver manager ======
+2023-01-11 17:52:01,652 - WDM - INFO - ====== WebDriver manager ======
+2023-01-11 17:52:01,652 - WDM - INFO - ====== WebDriver manager ======
+2023-01-11 17:52:01,652 - WDM - INFO - ====== WebDriver manager ======
+2023-01-11 17:52:01,879 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-01-11 17:52:01,879 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-01-11 17:52:01,879 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-01-11 17:52:01,879 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-01-11 17:52:02,074 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/109.0.5414/chromedriver] found in cache
+2023-01-11 17:52:02,074 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/109.0.5414/chromedriver] found in cache
+2023-01-11 17:52:02,074 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/109.0.5414/chromedriver] found in cache
+2023-01-11 17:52:02,074 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/109.0.5414/chromedriver] found in cache
+2023-01-11 17:52:04,305 - root - INFO - ************* Test_003_AddCustomer **********
+2023-01-11 17:52:04,305 - root - INFO - ************* Test_003_AddCustomer **********
+2023-01-11 17:52:04,305 - root - INFO - ************* Test_003_AddCustomer **********
+2023-01-11 17:52:04,305 - root - INFO - ************* Test_003_AddCustomer **********
+2023-01-11 17:52:06,844 - root - INFO - ************* Login succesful **********
+2023-01-11 17:52:06,844 - root - INFO - ************* Login succesful **********
+2023-01-11 17:52:06,844 - root - INFO - ************* Login succesful **********
+2023-01-11 17:52:06,844 - root - INFO - ************* Login succesful **********
+2023-01-11 17:52:06,845 - root - INFO - ******* Starting Add Customer Test **********
+2023-01-11 17:52:06,845 - root - INFO - ******* Starting Add Customer Test **********
+2023-01-11 17:52:06,845 - root - INFO - ******* Starting Add Customer Test **********
+2023-01-11 17:52:06,845 - root - INFO - ******* Starting Add Customer Test **********
+2023-01-11 17:52:06,909 - WDM - INFO - ====== WebDriver manager ======
+2023-01-11 17:52:06,909 - WDM - INFO - ====== WebDriver manager ======
+2023-01-11 17:52:06,909 - WDM - INFO - ====== WebDriver manager ======
+2023-01-11 17:52:06,909 - WDM - INFO - ====== WebDriver manager ======
+2023-01-11 17:52:06,932 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-01-11 17:52:06,932 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-01-11 17:52:06,932 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-01-11 17:52:06,932 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-01-11 17:52:07,067 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/109.0.5414/chromedriver] found in cache
+2023-01-11 17:52:07,067 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/109.0.5414/chromedriver] found in cache
+2023-01-11 17:52:07,067 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/109.0.5414/chromedriver] found in cache
+2023-01-11 17:52:07,067 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/109.0.5414/chromedriver] found in cache
+2023-01-11 17:52:08,001 - root - INFO - ****Started Login Test****
+2023-01-11 17:52:08,001 - root - INFO - ****Started Login Test****
+2023-01-11 17:52:08,001 - root - INFO - ****Started Login Test****
+2023-01-11 17:52:08,001 - root - INFO - ****Started Login Test****
+2023-01-11 17:52:10,142 - root - INFO - ****Login test passed ****
+2023-01-11 17:52:10,142 - root - INFO - ****Login test passed ****
+2023-01-11 17:52:10,142 - root - INFO - ****Login test passed ****
+2023-01-11 17:52:10,142 - root - INFO - ****Login test passed ****
