@@ -1,0 +1,142 @@
+2023-01-10 20:36:56,269 - WDM - INFO - ====== WebDriver manager ======
+2023-01-10 20:36:56,290 - WDM - INFO - Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-10 20:36:56,454 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/108.0.5359/chromedriver] found in cache
+2023-01-10 20:36:58,124 - root - INFO - ****Started Login Test****
+2023-01-10 20:37:01,049 - root - INFO - ****Login test passed ****
+2023-01-10 20:41:06,411 - WDM - INFO - ====== WebDriver manager ======
+2023-01-10 20:41:06,431 - WDM - INFO - Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-10 20:41:06,595 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/108.0.5359/chromedriver] found in cache
+2023-01-10 20:41:08,439 - root - INFO - ****Started Login Test****
+2023-01-10 20:41:10,813 - root - INFO - ****Login test passed ****
+2023-01-10 20:42:46,708 - WDM - INFO - ====== WebDriver manager ======
+2023-01-10 20:42:46,731 - WDM - INFO - Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-10 20:42:46,904 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/108.0.5359/chromedriver] found in cache
+2023-01-10 20:42:48,696 - root - INFO - ****Started Login Test****
+2023-01-10 20:42:50,967 - root - INFO - ****Login test passed ****
+2023-01-10 20:43:22,312 - WDM - INFO - ====== WebDriver manager ======
+2023-01-10 20:43:22,333 - WDM - INFO - Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-10 20:43:22,479 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/108.0.5359/chromedriver] found in cache
+2023-01-10 20:43:24,290 - root - INFO - ****Started Login Test****
+2023-01-10 20:43:26,128 - root - INFO - ****Login test passed ****
+2023-01-10 20:47:05,453 - WDM - INFO - ====== WebDriver manager ======
+2023-01-10 20:47:05,484 - WDM - INFO - Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-10 20:47:05,630 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/108.0.5359/chromedriver] found in cache
+2023-01-10 20:47:07,468 - root - INFO - ****Started Login Test****
+2023-01-10 20:47:10,173 - root - INFO - ****Login test passed ****
+2023-01-10 20:48:25,382 - WDM - INFO - ====== WebDriver manager ======
+2023-01-10 20:48:25,403 - WDM - INFO - Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-10 20:48:25,567 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/108.0.5359/chromedriver] found in cache
+2023-01-10 20:48:27,190 - root - INFO - ****Started Login Test****
+2023-01-10 20:48:30,086 - root - INFO - ****Login test passed ****
+2023-01-10 20:49:33,055 - WDM - INFO - ====== WebDriver manager ======
+2023-01-10 20:49:33,076 - WDM - INFO - Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-10 20:49:33,219 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/108.0.5359/chromedriver] found in cache
+2023-01-10 20:49:35,017 - root - INFO - ****Started Login Test****
+2023-01-10 20:49:37,648 - root - INFO - ****Login test passed ****
+2023-01-10 20:52:07,390 - WDM - INFO - ====== WebDriver manager ======
+2023-01-10 20:52:07,414 - WDM - INFO - Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-10 20:52:07,581 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/108.0.5359/chromedriver] found in cache
+2023-01-10 20:52:09,432 - root - INFO - ****Started Login Test****
+2023-01-10 20:52:12,352 - root - INFO - ****Login test passed ****
+2023-01-10 20:53:06,342 - WDM - INFO - ====== WebDriver manager ======
+2023-01-10 20:53:06,361 - WDM - INFO - Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-10 20:53:06,510 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/108.0.5359/chromedriver] found in cache
+2023-01-10 20:53:08,347 - root - INFO - ****Started Login Test****
+2023-01-10 20:53:11,083 - root - INFO - ****Login test passed ****
+2023-01-10 20:54:05,163 - WDM - INFO - ====== WebDriver manager ======
+2023-01-10 20:54:05,182 - WDM - INFO - Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-10 20:54:05,368 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/108.0.5359/chromedriver] found in cache
+2023-01-10 20:54:07,129 - root - INFO - ****Started Login Test****
+2023-01-10 20:54:09,923 - root - INFO - ****Login test passed ****
+2023-01-10 20:56:40,874 - WDM - INFO - ====== WebDriver manager ======
+2023-01-10 20:56:40,896 - WDM - INFO - Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-10 20:56:41,033 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/108.0.5359/chromedriver] found in cache
+2023-01-10 20:56:42,882 - root - INFO - ****Started Login Test****
+2023-01-10 20:56:45,545 - root - INFO - ****Login test passed ****
+2023-01-10 21:00:14,200 - WDM - INFO - ====== WebDriver manager ======
+2023-01-10 21:00:14,221 - WDM - INFO - Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-10 21:00:14,392 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/108.0.5359/chromedriver] found in cache
+2023-01-10 21:00:16,209 - root - INFO - ****Started Login Test****
+2023-01-10 21:00:19,109 - root - INFO - ****Login test passed ****
+2023-01-10 21:03:10,019 - WDM - INFO - ====== WebDriver manager ======
+2023-01-10 21:03:10,043 - WDM - INFO - Get LATEST chromedriver version for google-chrome 108.0.5359
+2023-01-10 21:03:10,185 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/108.0.5359/chromedriver] found in cache
+2023-01-10 21:03:11,991 - root - INFO - ****Started Login Test****
+2023-01-10 21:03:14,974 - root - INFO - ****Login test passed ****
+2023-01-10 21:16:06,874 - WDM - INFO - ====== WebDriver manager ======
+2023-01-10 21:16:06,908 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-01-10 21:16:07,192 - WDM - INFO - There is no [linux64] chromedriver for browser 109.0.5414 in cache
+2023-01-10 21:16:07,193 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/109.0.5414.25/chromedriver_linux64.zip
+2023-01-10 21:16:07,724 - WDM - INFO - Driver has been saved in cache [/home/ssatterf/.wdm/drivers/chromedriver/linux64/109.0.5414]
+2023-01-10 21:16:09,655 - root - INFO - ****Started Login Test****
+2023-01-10 21:16:12,062 - root - INFO - ****Login test passed ****
+2023-01-10 21:17:37,987 - WDM - INFO - ====== WebDriver manager ======
+2023-01-10 21:17:38,007 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-01-10 21:17:38,140 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/109.0.5414/chromedriver] found in cache
+2023-01-10 21:17:39,787 - root - INFO - ****Started Login Test****
+2023-01-10 21:17:41,974 - root - INFO - ****Login test passed ****
+2023-01-10 21:19:50,943 - WDM - INFO - ====== WebDriver manager ======
+2023-01-10 21:19:50,964 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-01-10 21:19:51,101 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/109.0.5414/chromedriver] found in cache
+2023-01-10 21:19:52,919 - root - INFO - ****Started Login Test****
+2023-01-10 21:19:55,243 - root - ERROR - ****Login test failed ****
+2023-01-10 21:21:16,327 - WDM - INFO - ====== WebDriver manager ======
+2023-01-10 21:21:16,348 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-01-10 21:21:16,523 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/109.0.5414/chromedriver] found in cache
+2023-01-10 21:21:18,319 - root - INFO - ****Started Login Test****
+2023-01-10 21:21:21,078 - root - ERROR - ****Login test failed ****
+2023-01-10 21:24:04,143 - WDM - INFO - ====== WebDriver manager ======
+2023-01-10 21:24:04,163 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-01-10 21:24:04,309 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/109.0.5414/chromedriver] found in cache
+2023-01-10 21:24:06,120 - root - INFO - *************** Test_001_Login *****************
+2023-01-10 21:24:06,121 - root - INFO - ****Started Home page title test ****
+2023-01-10 21:24:06,121 - root - INFO - ****Opening URL****
+2023-01-10 21:24:07,294 - root - INFO - **** Home page title test passed ****
+2023-01-10 21:24:07,550 - WDM - INFO - ====== WebDriver manager ======
+2023-01-10 21:24:07,570 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-01-10 21:24:07,701 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/109.0.5414/chromedriver] found in cache
+2023-01-10 21:24:09,509 - root - INFO - ****Started Login Test****
+2023-01-10 21:24:12,218 - root - ERROR - ****Login test failed ****
+2023-01-10 21:26:39,176 - WDM - INFO - ====== WebDriver manager ======
+2023-01-10 21:26:39,197 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-01-10 21:26:39,370 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/109.0.5414/chromedriver] found in cache
+2023-01-10 21:26:41,230 - root - INFO - *************** Test_001_Login *****************
+2023-01-10 21:26:41,230 - root - INFO - ****Started Home page title test ****
+2023-01-10 21:26:41,230 - root - INFO - ****Opening URL****
+2023-01-10 21:26:42,275 - root - INFO - **** Home page title test passed ****
+2023-01-10 21:26:42,460 - WDM - INFO - ====== WebDriver manager ======
+2023-01-10 21:26:42,479 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-01-10 21:26:42,617 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/109.0.5414/chromedriver] found in cache
+2023-01-10 21:26:44,419 - root - INFO - ****Started Login Test****
+2023-01-10 21:26:46,926 - root - INFO - ****Login test passed ****
+2023-01-11 12:27:45,082 - WDM - INFO - ====== WebDriver manager ======
+2023-01-11 12:27:45,266 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-01-11 12:27:45,441 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/109.0.5414.74/chromedriver_linux64.zip
+2023-01-11 12:27:45,990 - WDM - INFO - Driver has been saved in cache [/home/ssatterf/.wdm/drivers/chromedriver/linux64/109.0.5414]
+2023-01-11 12:27:50,961 - root - INFO - ************* Test_003_AddCustomer **********
+2023-01-11 12:27:53,531 - root - INFO - ************* Login succesful **********
+2023-01-11 12:27:53,531 - root - INFO - ******* Starting Add Customer Test **********
+2023-01-11 12:31:30,180 - WDM - INFO - ====== WebDriver manager ======
+2023-01-11 12:31:30,200 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-01-11 12:31:30,339 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/109.0.5414/chromedriver] found in cache
+2023-01-11 12:31:32,166 - root - INFO - ************* Test_003_AddCustomer **********
+2023-01-11 12:31:34,511 - root - INFO - ************* Login succesful **********
+2023-01-11 12:31:34,511 - root - INFO - ******* Starting Add Customer Test **********
+2023-01-11 12:31:58,213 - WDM - INFO - ====== WebDriver manager ======
+2023-01-11 12:31:58,233 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-01-11 12:31:58,370 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/109.0.5414/chromedriver] found in cache
+2023-01-11 12:32:00,189 - root - INFO - ************* Test_003_AddCustomer **********
+2023-01-11 12:32:03,083 - root - INFO - ************* Login succesful **********
+2023-01-11 12:32:03,083 - root - INFO - ******* Starting Add Customer Test **********
+2023-01-11 12:46:47,625 - WDM - INFO - ====== WebDriver manager ======
+2023-01-11 12:46:47,646 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-01-11 12:46:47,817 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/109.0.5414/chromedriver] found in cache
+2023-01-11 12:46:49,670 - root - INFO - ************* Test_003_AddCustomer **********
+2023-01-11 12:46:52,145 - root - INFO - ************* Login succesful **********
+2023-01-11 12:46:52,145 - root - INFO - ******* Starting Add Customer Test **********
+2023-01-11 12:52:29,683 - WDM - INFO - ====== WebDriver manager ======
+2023-01-11 12:52:29,705 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-01-11 12:52:29,872 - WDM - INFO - Driver [/home/ssatterf/.wdm/drivers/chromedriver/linux64/109.0.5414/chromedriver] found in cache
+2023-01-11 12:52:31,712 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-01-11 12:52:34,133 - root - INFO - ************* Login succesful **********
+2023-01-11 12:52:34,134 - root - INFO - ******* Starting Search Customer By Email **********
