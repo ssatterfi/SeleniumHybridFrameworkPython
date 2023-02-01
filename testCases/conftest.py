@@ -2,42 +2,27 @@ import pytest
 import os
 from selenium import webdriver
 import pytest
-from selenium.webdriver.chrome.service import Service as ChromeService
-from webdriver_manager.chrome import ChromeDriverManager
-from webdriver_manager.core.utils import ChromeType
-from webdriver_manager.firefox import GeckoDriverManager
-from selenium.webdriver.edge.service import Service as EdgeService
-from webdriver_manager.microsoft import EdgeChromiumDriverManager
-from selenium.webdriver.ie.service import Service as IEService
-from webdriver_manager.microsoft import IEDriverManager
-from webdriver_manager.chrome import ChromeDriverManager
-from webdriver_manager.core.utils import ChromeType
 
 
 @pytest.fixture()
 def setup(browser):
     if browser.lower() == 'chrome':
-        driver = webdriver.Chrome(service=ChromeService(
-            ChromeDriverManager().install()))
+        driver = webdriver.Chrome()
         print("Launching Chrome browser......")
     elif browser.lower == 'firefox':
-        driver = webdriver.Firefox(
-            executable_path=GeckoDriverManager().install())
+        driver = webdriver.Firefox()
         print("Launching firefox browser......")
     elif browser.lower() == 'edge':
-        driver = webdriver.Edge(service=EdgeService(
-            EdgeChromiumDriverManager().install()))
+        driver = webdriver.Edge()
         print("Launching Edge browser......")
     elif browser.lower() == 'ie':
-        driver = webdriver.Ie(service=IEService(IEDriverManager().install()))
+        driver = webdriver.Ie()
         print("Launching IE browser......")
     elif browser.lower() == 'chromium':
-        driver = webdriver.Chrome(ChromeDriverManager(
-            chrome_type=ChromeType.CHROMIUM).install())
+        driver = webdriver.Chrome()
         print("Launching chromium browser......")
     else:
-        driver = webdriver.Chrome(service=ChromeService(
-            ChromeDriverManager().install()))
+        driver = webdriver.Chrome()
         print("Defaulting to Launching Chrome browser.....")
     return driver
 
